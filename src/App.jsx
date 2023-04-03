@@ -1,5 +1,5 @@
-import MasterContainer from './components/MasterContainer'
+import MainContainer from './components/MainContainer'
 
 export default function App() {
-  return <MasterContainer />
+  return <MainContainer />
 }
